@@ -1,0 +1,5 @@
+*rb /usr/share/redmine/plugins/redmine_openid_selector
+app /usr/share/redmine/plugins/redmine_openid_selector
+lib /usr/share/redmine/plugins/redmine_openid_selector
+config /usr/share/redmine/plugins/redmine_openid_selector
+assets/* /usr/share/redmine/public/plugin_assets/redmine_openid_selector

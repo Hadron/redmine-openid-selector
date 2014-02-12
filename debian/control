@@ -1,0 +1,16 @@
+Source: redmine-plugin-openid-selector
+Section: ruby
+Priority: optional
+Maintainer: Klee Dienes <klee@mit.edu>
+Build-Depends: debhelper (>= 9), quilt
+Standards-Version: 3.9.5
+Homepage: https://github.com/jorgebg/redmine-openid-selector
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-ruby-extras/redmine-plugin-openid-selector.git
+Vcs-Git: git://anonscm.debian.org/pkg-ruby-extras/redmine-plugin-openid-selector.git
+
+Package: redmine-plugin-openid-selector
+Architecture: all
+Depends: ${misc:Depends}, redmine (>= 2.4.0)
+Description: Redmine plugin to add an OpenID menu to the login screen
+ This plugin integrates a menu of OpenID providers into Redmine's 
+ login screen.

@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine-openid-selector
+Source: https://github.com/jorgebg/redmine-openid-selector
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN
