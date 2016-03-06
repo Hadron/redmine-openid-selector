@@ -2,4 +2,4 @@ redmine-plugin-openid-selector (0.0.1+git20130707-1) unstable; urgency=low
 
   * Initial release (closes: #).
 
- -- 
+ -- Klee Dienes <klee@debian.org>  Sat, 05 Mar 2016 23:49:43 -0500
